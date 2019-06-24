@@ -1,2 +1,7 @@
-# pbp-report-vscode
-This code is from an old college assignment in which we were supposed to come up with a code that was easily able to display a patient's blood pressure report.
+# Patient Blood Pressure Report
+Old college assignment in which students were supposed to develop a code within Visual Basic that clearly displayed a patient's blood pressure report.
+
+## Overview
+This code allows individuals to retrieve information regarding a patient's blood pressure with ease and simplicity.
+
+## Table of Contents
